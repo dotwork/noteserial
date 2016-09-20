@@ -410,7 +410,7 @@ Vaccine
         # Take 1 out, let it sit for 10 minutes (unless house is not air conditioned)
         # Clean surface you're using really well
         # Lay down clean paper towel
-        # Take out a needle, alcohol-prep, syringe
+        # Take out a needle (18 & 25 gauge), alcohol-prep, syringe
         # Wash hands again, don't need gloves
         # Every bottle is pressurized with metal top. Pop it off with fingernail
             Has a bulls-eye on top
@@ -418,7 +418,7 @@ Vaccine
         # Has cap on it to protect it (in case you drop it, still sterile as long as needle doesn't touch anything)
         # Take cap off, twist needle off
         # Open alcohol wipe and wipe cap with bulls-eye
-        # Pull syringe-plunger down to ___?
+        # Pull syringe-plunger down to 2cc?
         # Insert needle into bottle:
             # rest syringe on palm to help guide it in
             # push needle in to the liquid
