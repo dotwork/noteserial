@@ -245,10 +245,129 @@ Footer full width:
     Keep "wrapper" class simple so it can be re-used like this
 
 
+ FORMS
+
+FORM ELEMENT
+Input needs
+    name (field name)
+    type ("text", "email", "url", "number", "password", "color", "date", "submit")
+        color not supported on some browsers
+        "submit" typ
+    required (required="required")
+    placeholder (placeholder="Placeholder text")
+
+Label
+    for - to use this attribute, field must have an id.
+        'for' attribute associates it with field id.
+Textarea element
+    <label for="message"></label>
+    <textarea id="message" name="message" cols="20" rows="10"></textarea>
+
+Button
+    type ("button", ...?)
+
+File field
+    <input name="photo" id="photo" type="file">
+    requires enctype
+        <form method="post"...enctype="multipart/form">
+    accept - accept=".jpg,.png,.gif"
+    almost impossible to style
+
+Hidden fields
+    <type="hidden" name="form" value="hidden_value">
+
+Checkboxes
+    <input type="checkbox" name="mailing" id="mailing" value="true">
+    value is what gets sent if checkbox is checked (does not indicate that checkbox is checked)
+
+Radio button
+    <input type="radio" name="like_cheese" id="checked_yes" value="yes">
+    <input type="radio" name="like_cheese" id="checked_no" value="no">
+
+Select
+    <select name="fav" id="fav"> # add multiple="true" to allow multiple selections
+        <option>Please Select</option>
+            <optgroup label="Blue cheese">
+            <option value="stilton" >Stilton</option>
+        <option>Please Select</option>
+            <optgroup label="Blue cheese">
+            <option value="stilton" >Stilton</option>
+    </select>
+
+Fieldset
+    <fieldset>
+        <label>Blah</label>
+        <input type="radio" name="like_cheese" id="checked_yes" value="yes">
+        <input type="radio" name="like_cheese" id="checked_no" value="no">
+    </fieldset>
+
+FORM CSS
+    .forms input[type="text"], .forms input[type="email"] {}
+    .forms input[type="text"]:hover {}
+    .forms input[type="text"]:active {}
+        (while holding down on a button)
+    .forms input[type="text"]:focus {}
+        (the field that has the cursor)
+    .forms input[type="text"]:invalid {}
+        (styles field until input is valid)
+
+EMBEDDING
+    <audio src="filename.mp3" controls preload="auto"></audio>
+
+########################################################################################################################
+RESPONSIVE DESIGN
+
+Media Queries
+    @media screen and (min-width: 720px) {
+            .main {
+                float: left;
+                width: 60%;
+            }
+
+            .sub {
+                float: right;
+                width: 30%;
+            }
+        }
+
+Fluid images
+    img {max-width: 100%;}
+
+Fluid grids
+    @media screen and (min-width: 700px) {
+        //
+    }
+
+Mobile first approach
 
 
+########################################################################################################################
+DEBUGGING
+
+Use validators to check html and css files
 
 
+########################################################################################################################
+> ORGANIZING, DEVELOPING, AND OPTIMIZING YOUR CSS
 
+CREATE A FUNCTIONAL SPEC(IFICATION)
+Browser
+    Do I need to interface with...?
+        Chrome
+            C37/C38
+        Firefox
+            FF 32
+        IE
+            IE 11
+        Edge
+        -Safari-
+        -Opera-
+    Search "browser penetration" for statistics of usage
+    Chrome, Safari, and Opera all use the same rendering engine, so consistent appearance
 
+Accessibility
+    ...
 
+CREATE A STYLE GUIDE
+
+CREATE PAGE ...?

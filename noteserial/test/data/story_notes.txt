@@ -1,0 +1,54 @@
+ANTAGONIST
+Title: INVADERS
+Description: Bandits that are gathering in swarms to a charismatic leader and pillaging the country...
+    one village at a time.
+
+
+STEPHANIE
+Title: Queen
+Husband/King: Carlos
+Conflict: Foreign spies are impersonating the crown via magic/glamours and fomenting rebellion.
+    Queen Stephanie is tasked with leading the Watch in hunting down the invaders and shutting down...
+    their nefarious schemes so peace and prosperity can be restored to the kingdom.
+
+
+CARLOS
+Title: King
+Wife/Queen: Stephanie
+Conflict: Must find the 5 red threads to weave the ancient Genesis Scroll. With it, he and Queen Stephanie...
+    can unmake the glamours that protect the evil spies from defeat at the INVADERS and fight...
+    a fair fight, which they win because they kick ass.
+
+
+AARON
+Title: Villain
+Description: Secretly the leader of the bandits, but also plays a respected political adviser in the
+    MakeWorld. He journeys from kingdom to kingdom, advising royalty and government leaders.
+
+
+Conflict: Believes the kingdom was doomed anyway, so he is cashing in by bringing the doom himself.
+    He was hoping to bring the King & Queen (or their child?) with him to start a new empire that he
+    would rule from behind the throne.
+
+
+WORLD PLOT
+story_plot(King goes on quest to find 5 red threads and weave the ancient Genesis Scroll. He and Queen Stephanie...
+    use its powers to defeat the invader spies and the swarms of bandits.) But the scroll's real powers...
+    lie in creation. The King and Queen use the scroll to usher in an age of prosperity and an abundance
+    of making. When the great doom that Villain foresaw comes, the kingdom is powerful enough to fight back
+    and win because of all the making they've done.
+
+
+5 RED THREADS
+    Stephanie (Queen)
+        Understanding/empathy
+    Aaron (Adviser)
+        Knowledge
+    Toby (Teacher/Knight?)
+        Wisdom
+    Carlos (Myself/King)
+        Courage
+    Aaron (Villain)
+        Inspiration
+
+
