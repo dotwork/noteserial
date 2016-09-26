@@ -15,20 +15,20 @@ Conflict: Foreign spies are impersonating the crown via magic/glamours and fomen
 CARLOS
 Title: King
 Wife/Queen: Stephanie
-Conflict: Must find the 5 red threads to weave the ancient Genesis Scroll. With it, he and Queen Stephanie...
-    can unmake the glamours that protect the evil spies from defeat at the INVADERS and fight...
-    a fair fight, which they win because they kick ass.
+Conflict: Must find the 5 red threads to weave the ancient Genesis Scroll and bring it back to the kingdom...
+    to help defeat the invasion of bandits.
 
 
 AARON
 Title: Villain
-Description: Secretly the leader of the bandits, but also plays a respected political adviser in the
-    MakeWorld. He journeys from kingdom to kingdom, advising royalty and government leaders.
-
-
-Conflict: Believes the kingdom was doomed anyway, so he is cashing in by bringing the doom himself.
-    He was hoping to bring the King & Queen (or their child?) with him to start a new empire that he
-    would rule from behind the throne.
+Description: Secretly the leader of the bandits, and even more secretly a spy for the alien invaders...
+    (another country or outer space?) that will come in the future to destroy the kingdom.
+    Undercover in the MakeWorld, he also plays a respected political adviser to all of the great kingdoms.
+    He journeys from one to another, advising royalty and government leaders to prosperity, preparing them
+    for invasion by his people.
+Conflict: When he discovers King Carlos is undergoing a quest for the Genesis Scroll, he at first
+    tries to stop him from wasting himself on something so foolish. Then, once he discovers the Genesis Scroll
+    is indeed real and quite powerful, he tries to deceive King Carlos and get it for himself.
 
 
 WORLD PLOT
@@ -50,5 +50,3 @@ story_plot(King goes on quest to find 5 red threads and weave the ancient Genesi
         Courage
     Aaron (Villain)
         Inspiration
-
-
